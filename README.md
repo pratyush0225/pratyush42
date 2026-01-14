@@ -18,10 +18,7 @@ Alongside academics, I actively take up **leadership and coordination roles**, g
 
 ---
 
-🏆 Scholastic Achievements  
-- Cleared **NTSE Stage 1** (State Rank 455 among 2.5 lakh candidates)  
-- **JEE Main 2023** – 97.05 percentile (1.2 million candidates)  
-- **JEE Advanced 2023** – Category Rank **1864** (All India)  
+
 
 ---
 
