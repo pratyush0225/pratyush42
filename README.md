@@ -1,113 +1,99 @@
-# 👋 Hi, I'm Pratyush Prakash  
+<div align="center">
 
-🎓 B.Tech Civil Engineering | IIT Hyderabad (2027)  
-📍 Hyderabad, India  
-📧 ce23btech11042@iith.ac.in  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Pratyush%20Prakash&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Enthusiast%20%7C%20IoT%20Explorer&descAlignY=55&descSize=18"/>
 
----
+<a href="https://github.com/pratyush0225">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Agentic+AI+%26+LLMs;Exploring+IoT+%2B+Generative+AI;RAG+%7C+LangChain+%7C+Machine+Learning;Always+learning%2C+always+shipping;&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22&pause=1500"/>
+</a>
 
-## 🧑‍🎓 About Me  
-I am a **Civil Engineering undergraduate at IIT Hyderabad** with strong interests in **core civil engineering, construction planning, and operations & management**.  
-Alongside academics, I actively take up **leadership and coordination roles**, gaining hands-on experience in **logistics, administration, and team management**.
+![Profile Views](https://komarev.com/ghpvc/?username=pratyush0225&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/pratyush0225?color=7dd3fc&style=flat-square&label=Followers)
 
----
-
-## 🎯 Academic Background  
-- **B.Tech Civil Engineering** – IIT Hyderabad 
-- 
+</div>
 
 ---
 
+### 👨‍💻 Who I Am
 
-
----
-
-## 🧑‍💼 Positions of Responsibility  
-
-### 🏠 Hostel Representative | IIT Hyderabad  
-- Elected representative responsible for **grievance handling and admin coordination**  
-- Acted as a bridge between **students and hostel administration**  
-- Gained experience in **operations management and issue resolution**
-
-### 🏅 Operations & Management Coordinator | Inter-IIT Sports Meet  
-- Coordinated **large-scale logistics, scheduling, and volunteer deployment**  
-- Liaised with **organizing committee, referees, and team managers**  
-- Planned **venue layouts, temporary infrastructure, and crowd flow**
-
-### 💼 Corporate Finance & Management Manager | E-Cell, IIT Hyderabad  
-- Managed **budgeting, fund allocation, and expense optimization**  
-- Coordinated **corporate partnerships and sponsorship onboarding**  
-- Supported **MoU documentation and corporate communications**
-
-### 🔧 Logistics Coordinator | Tinkerers’ Lab  
-- Handled **vendor communication, quotations, and approvals**  
-- Planned **logistics scheduling and equipment allocation**  
-
-### 🎭 Event Coordinator | Milan (Cultural Fest)  
-- Coordinated **artist hospitality, accommodation, and transport**  
-- Resolved **real-time operational issues** during events  
+```typescript
+const pratyush = {
+  title: "AI/ML Engineer | GenAI & LLM Enthusiast",
+  stack: [
+    "Python", "SQL", "LangChain", "RAG",
+    "Agentic AI", "Generative AI", "LLMs",
+    "Prompt Engineering", "Machine Learning",
+    "Data Analysis", "IoT", "Git & GitHub"
+  ],
+  launchedProjects: [], // 🚧 more coming soon
+  certifications: [
+    "Internship Completion — CyanConnode Pvt Ltd (IoT & AI)"
+  ],
+  status: "Exploring the intersection of IoT, GenAI & Agentic systems 🚀",
+  openTo: "Collaborations, AI/ML & GenAI opportunities"
+};
+```
 
 ---
 
-## 🛠️ Skills  
+### 🛠️ Tech Stack
 
-### 🔧 Core Civil Engineering  
-- Surveying & Levelling  
-- Estimation, Costing & Rate Analysis  
-- Construction Planning & Scheduling  
-- Site Safety & Quality Control  
-- Environmental Engineering Fundamentals  
-- Building Materials & Testing  
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,sql" />
+</p>
 
-### 💻 Software & Tools  
-- AutoCAD  
-- STAAD Pro  
-- ETABS (Basic)  
-- MS Excel  
-- MS Project (Basic Scheduling)  
+**AI / ML / GenAI**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-### 📊 Management & Analytics  
-- Budgeting & Cost Control  
-- Procurement & Vendor Coordination  
-- Inventory Management  
-- Documentation & Reporting  
-
-### 💬 Soft Skills  
-- Leadership  
-- Teamwork  
-- Problem Solving  
-- Analytical Thinking  
-- Communication  
-
-### 👨‍💻 Programming  
-- Python (Proficient)  
-- C (Familiar)  
+**Dev Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📚 Relevant Coursework  
-- Calculus I & II  
-- Linear Algebra  
-- Differential Equations  
-- Probability & Statistics  
-- Transform Techniques  
-- Communication Skills  
-- Fundamentals of Organizational Structure  
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratyush0225&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0225&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=pratyush0225&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratyush0225&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
 
 ---
 
-## ⚽ Extracurricular Activities  
-- Represented hostel in **Inter-Hostel Sports (Milan)**  
-- Part of **Inter-Department Cricket Team**  
-- Member of **National Service Scheme (NSS)**  
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush0225&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" />
+
+</div>
 
 ---
 
-## 🚀 Career Interests  
-- Core Civil Engineering Roles  
-- Construction Planning & Project Management  
-- Operations, Logistics & Infrastructure Management  
+### 🤝 Connect With Me
 
----
+<div align="center">
 
-⭐ *Always eager to learn, take responsibility, and contribute to impactful engineering and management projects.*
+<a href="https://github.com/pratyush0225">
+  <img src="https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/pratyush-prakash-642000290">
+  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer"/>
