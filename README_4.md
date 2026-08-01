@@ -1,0 +1,194 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Pratyush%20Prakash&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Enthusiast%20%7C%20IoT%20Explorer&descAlignY=55&descSize=17"/>
+
+<a href="https://github.com/pratyush0225">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Agentic+AI+%26+LLMs;Designing+RAG+%26+LangChain+Pipelines;Turning+Data+into+Decisions;Exploring+IoT+%2B+Generative+AI;&font=Fira+Code&center=true&width=600&height=40&color=7dd3fc&vCenter=true&size=20&pause=1500"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pratyush-prakash-642000290">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=black"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=pratyush0225&color=7dd3fc&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/pratyush0225?color=7dd3fc&style=flat-square&label=Followers"/>
+
+</div>
+
+<br/>
+
+## About Me
+
+I'm an AI/ML Engineer focused on **Data Analysis, Machine Learning, Generative AI, and Retrieval-Augmented Generation (RAG)**, with hands-on experience in IoT, embedded systems, and business development. I've interned at **CyanConnode Pvt. Limited** (LLMs, RAG pipelines, IoT data), **Amani Automation Pvt. Ltd.** (C++ developer on an AI-integrated flight controller — STM32 + HAILO NPU), and **Estate Plus CRM** (B2B sales, lead qualification, and client-facing CRM work). I enjoy the full pipeline — from cleaning and analyzing data, to building ML models and embedded systems, to understanding how a business actually generates and manages leads — and I'm actively looking for opportunities to apply and grow these skills further.
+
+```typescript
+const pratyush = {
+  role: "AI/ML Engineer",
+  focus: ["Data Analysis", "Machine Learning", "Generative AI", "RAG", "IoT"],
+  currentStack: [
+    "Python", "C++", "SQL", "Pandas", "NumPy",
+    "Scikit-learn", "TensorFlow", "PyTorch",
+    "LangChain", "RAG", "Prompt Engineering",
+    "Agentic AI", "STM32", "Embedded Systems",
+    "Data Visualization", "Git & GitHub"
+  ],
+  certifications: [
+    "Internship Completion — CyanConnode Pvt Ltd (IoT & AI)",
+    "Internship Completion — Amani Automation Pvt Ltd (Embedded AI Systems)",
+    "Internship Completion — Estate Plus CRM (Business Development)"
+  ],
+  currentlyExploring: "Multi-agent systems & production-grade RAG pipelines",
+  openTo: "Data Analyst, ML, GenAI & IoT roles and collaborations"
+};
+```
+
+---
+
+## Experience
+
+**AI / IoT Intern — CyanConnode Pvt. Limited**
+*May 2026 – July 2026*
+
+- Worked on projects spanning IoT systems, Agentic AI, and Generative AI applications
+- Built and experimented with LLM-based workflows using LangChain, RAG, and prompt engineering techniques
+- Applied Python, SQL, and data analysis skills to support machine learning and IoT data pipelines
+- Collaborated cross-functionally, working both independently and as part of a team in a professional engineering environment
+
+**C++ Software Developer Intern — Amani Automation Pvt. Ltd.**
+*May 2025 – July 2025*
+
+- Contributed as a C++ software developer on the **AIFIC (AI Integrated Flight Controller)** project
+- Worked on STM32 microcontroller programming integrated with the HAILO NPU AI accelerator
+- Supported the embedded systems and electronics segment of the company's drone manufacturing division
+
+**Business Development Intern — Estate Plus CRM**
+*May 2026 – June 2026*
+
+- Conducted B2B outreach through calls and follow-ups, generating and qualifying prospective leads
+- Presented CRM solutions to clients and maintained accurate records of customer interactions
+- Scheduled meetings, product demonstrations, and follow-up discussions
+- Gained practical exposure to sales funnel & pipeline management, lead qualification, and client negotiation
+
+---
+
+## Education
+
+**B.Tech in Civil Engineering — Indian Institute of Technology, Hyderabad**
+
+---
+
+## Tech Stack
+
+**Languages & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,sql" />
+</p>
+
+**Embedded Systems & Hardware AI**
+<p>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HAILO_NPU-0A0A0A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-2E8B57?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Data Analysis & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=jupyter" />
+</p>
+
+**Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-0E6EB8?style=for-the-badge&logoColor=white"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Generative AI & LLMs**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-7dd3fc?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-14213D?style=for-the-badge&logoColor=white"/>
+</p>
+
+**RAG & Vector Search**
+<p>
+  <img src="https://img.shields.io/badge/RAG-0ea5e9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-6C4CE1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-0A0A0A?style=for-the-badge&logoColor=white"/>
+</p>
+
+**IoT & Hardware**
+<p>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Business & Product**
+<p>
+  <img src="https://img.shields.io/badge/B2B_Sales-2E8B57?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRM_Management-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lead_Qualification-0ea5e9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Client_Negotiation-7dd3fc?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pipeline_Management-14213D?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratyush0225&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0225&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=pratyush0225&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratyush0225&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush0225&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/pratyush0225">
+  <img src="https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/pratyush-prakash-642000290">
+  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=110&section=footer"/>
